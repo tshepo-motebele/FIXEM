@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237384106925",
+    "project_id": "fix-em-6b9bd",
+    "storage_bucket": "fix-em-6b9bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237384106925:android:5398b4468c1b9fec7b9724",
+        "android_client_info": {
+          "package_name": "com.example.fixem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMgVfcXgojGTT4bQGYLSJUB9cZwtNv1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
